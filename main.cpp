@@ -2,7 +2,7 @@
 #include "memes.h"
 
 int main(void) {
-	printf("Hello World\n");
+	printf("%d\n", memes(5));
 	return 0;
 }
 
