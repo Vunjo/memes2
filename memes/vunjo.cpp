@@ -1,7 +1,7 @@
 #include <cstdio>
 #include <cmath>
 
-int main (){
+int main() {
     float a, b;
 
     printf("a = ");
