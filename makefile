@@ -6,4 +6,6 @@ all:
 init:
 	mkdir bin
 	mkdir build
-	
+
+run: all
+	./bin/memes
