@@ -1,7 +1,7 @@
 CC = g++
 
 all:
-	$(CC) memes/main.cpp -o bin/memes
+	$(CC) memes/memes.cpp -o bin/memes
 
 init:
 	mkdir bin
